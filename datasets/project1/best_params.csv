@@ -1,0 +1,5 @@
+,param_C,param_solver,mean_test_score,std_test_score,rank_test_score,param_n_neighbors,param_weights,param_max_depth,param_min_samples_split,param_n_estimators
+LogisticRegression,0.1,liblinear,0.7857074109720885,0.00433001804781597,1,,,,,
+KNN,,,0.7865736284889315,0.0017351064848238483,1,11.0,uniform,,,
+DecisionTree,,,0.7962463907603464,0.004024549475852757,1,,,5.0,10.0,
+RandomForest,,,0.8008662175168432,0.004711651597420317,1,,,10.0,,200.0
